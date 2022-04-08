@@ -22,7 +22,6 @@ export const getStaticPaths = async () => {
     // cons
   }
 };
-
 // we are making this request by the length we
 // have in the response array
 export const getStaticProps = async (context) => {
